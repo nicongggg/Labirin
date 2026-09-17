@@ -1,0 +1,6 @@
+{
+  "name": "Labirin Horor 3D",
+  "description": "Game horor 3D labirin menegangkan 20 level dengan Pocong, Kuntilanak, Genderuwo, visual wajah seram jumpscare, audio deg-degan mencekam, dan persembunyian lemari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
